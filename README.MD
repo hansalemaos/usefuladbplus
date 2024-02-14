@@ -4,6 +4,7 @@
 
 ### Tested against Windows 10 / Python 3.11 / Anaconda / BlueStacks5
 
+## If you get an Exception (deepcopy .. blah blah ...), then **pip install pandas==2.1.4**
 
 This package is designed for automating interactions with Android devices. Whether you're developing mobile applications, performing UI testing, or exploring Android internals, this toolkit provides an extensive set of functionalities to streamline your workflow.
 

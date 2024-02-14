@@ -8,6 +8,7 @@ istruthy
 numexpr
 numpy
 opencv_python
+opencv_python_headless
 pandas
 touchtouch
 usefuladb
